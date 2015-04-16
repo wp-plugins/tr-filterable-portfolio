@@ -34,7 +34,7 @@ Plugin Features !!!!!
 * Super Easy to use.
 
 Pro Version Installation guide:
-[youtube https://youtu.be/U6xHLNW31fE]
+[youtube https://www.youtube.com/watch?v=U6xHLNW31fE]
  
  
 * [Our Others Premium Plugins](http://themeroad.net/)

@@ -3,7 +3,7 @@ Contributors: BestThemeRoad
 Author URI: https://profiles.wordpress.org/bestthemeroad
 Author: Theme Road
 Donate link: 
-Tags: custom post type with portfolio, portfolio, gallery, portfolio Plugin, portfolio with gallery, gallery, frequently asked questions, jquery ui accordion, jquery-ui, shortcodes, wordpress, wordpress faq, WordPress Plugin, wp-faq with category,frequently asked questions, wordpress, wordpress faq, WordPress Plugin, drag and drop, modal,botstrap modal, 
+Tags: custom post type with portfolio, portfolio, gallery, portfolio Plugin, portfolio with gallery, gallery, frequently asked questions, jquery ui accordion, jquery-ui, shortcodes, wordpress, wordpress faq, WordPress Plugin, wp-faq with category,frequently asked questions, wordpress, wordpress faq, WordPress Plugin,  animation, awesome filterable portfolio, awesome portfolio, best portfolio plugin, categories, categorized, category, clients, filter, filterable, filterable portfolio, gallery portfolio, image-portfolio, jquery, jquery animation, jquery effects, photo portfolio, photos, portfolio, portfolio plugin, portfolio shortcode, portfolio wordpress, project, projects, showcase, simple portfolio, sort, sortable, sortable portfolio, thumbnails, wordpress portfolio, work, wp portfolio
 Requires at least: 3.5
 Tested up to: 4.1
 Stable tag: 1.0

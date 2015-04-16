@@ -15,7 +15,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-### Nice Responsive WP_FAQ  by http://themeroad.net
+### TR Filterable Portfolio  by http://themeroad.net
 
 Aweosome Plugin for filterable portfolio
 
@@ -27,9 +27,20 @@ Plugin Features !!!!!
 * You can use it in posts or pages.
 * Just use this code  [project] where you want use Portfolio.
 
+### Pro Version Features
 
+* Drag & Drop Feature
+* Without any coding & customization
+* Super Easy to use.
+
+Pro Version Installation guide:
+[youtube https://youtu.be/U6xHLNW31fE]
  
  
+* [Our Others Premium Plugins](http://themeroad.net/)
+* [TR WP Custom Login](http://themeroad.net/product/tr-custom-login/)
+* [TR Nice Accordion](http://themeroad.net/product/tr-nice-accordion/)
+
  
 Live Preview: http://themeroad.net/260/
 

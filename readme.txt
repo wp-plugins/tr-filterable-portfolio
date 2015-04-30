@@ -37,9 +37,14 @@ Pro Version Installation guide:
 [youtube https://www.youtube.com/watch?v=U6xHLNW31fE]
  
  
-* [Our Others Premium Plugins](http://themeroad.net/)
-* [TR WP Custom Login](http://themeroad.net/product/tr-custom-login/)
-* [TR Nice Accordion](http://themeroad.net/product/tr-nice-accordion/)
+* [Our Premium Plugins](http://themeroad.net/)
+ * [TR WP Custom Login](http://themeroad.net/product/tr-custom-login/)
+ * [TR Advanced Price Plan Pro](http://themeroad.net/product/tr-advanced-price-plan-pro/)
+ * [TR WooCommerce Image Zoom PRO](http://themeroad.net/product/woocommerce-image-zoom-pro/)
+ * [TR Carousel Slider Pro](http://themeroad.net/product/tr-carousel-slider-pro/)
+ * [TR Logo Slider Pro](http://themeroad.net/product/tr-logo-slider-pro/)
+ * [TR Filterable Portfolio Pro](http://themeroad.net/product/tr-filterable-portfolio-pro/)
+ * [TR Nice Accordion Pro](http://themeroad.net/product/tr-nice-accordion/)
 
  
 Live Preview: http://themeroad.net/260/

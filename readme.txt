@@ -47,7 +47,7 @@ Pro Version Installation guide:
  * [TR Nice Accordion Pro](http://themeroad.net/Products/tr-premium-accordion-pro/)
 
 
-
+Check details: 
 
 == Installation ==
 
